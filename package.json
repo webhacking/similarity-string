@@ -1,11 +1,19 @@
 {
-  "name": "similarity-string",
+  "name": "similarity-text",
   "version": "1.0.0",
   "description": "A library implementing different string similarity and distance measures using Javascript.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "a@hax0r.info",
-  "license": "ISC"
+  "author": {
+    "name": "hax0r",
+    "email": "a@hax0r.info",
+    "url": "https://www.hax0r.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webhacking/similarity-string/issues",
+    "email": "a@hax0r.info"
+  }
 }

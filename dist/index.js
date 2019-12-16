@@ -44,3 +44,4 @@ var distance = function (s1, s2) {
     }
     return costs[s2.length];
 };
+//# sourceMappingURL=index.js.map
