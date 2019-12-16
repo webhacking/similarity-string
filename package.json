@@ -1,0 +1,11 @@
+{
+  "name": "similarity-string",
+  "version": "1.0.0",
+  "description": "A library implementing different string similarity and distance measures using Javascript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a@hax0r.info",
+  "license": "ISC"
+}
